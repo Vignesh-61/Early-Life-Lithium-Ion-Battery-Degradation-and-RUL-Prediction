@@ -1,0 +1,9 @@
+run_id,script,date,aggregation,window,MAE,RMSE,R2,MAPE,RUL_MAE
+phase1_lobo,src/training.py,2026-09-10,mean-of-folds,3,0.12358,0.14348,0.1628,8.029,NA
+phase1_lobo,src/training.py,2026-09-10,mean-of-folds,5,0.11442,0.12572,0.3294,7.341,NA
+phase1_lobo,src/training.py,2026-09-10,mean-of-folds,10,0.0924,0.11348,0.507,5.956,NA
+phase1_lobo,src/training.py,2026-09-10,mean-of-folds,20,0.07758,0.09728,0.3914,5.202,NA
+phase2_final,src/phase2_experiments.py,2026-09-27,mean-of-folds,3,0.0818,0.09486,0.6794,5.22,12.91
+phase2_final,src/phase2_experiments.py,2026-09-27,mean-of-folds,5,0.10801,0.13176,0.3483,6.81,33.4
+phase2_final,src/phase2_experiments.py,2026-09-27,mean-of-folds,10,0.08037,0.0996,0.6512,5.21,8.45
+phase2_final,src/phase2_experiments.py,2026-09-27,mean-of-folds,20,0.08861,0.10415,0.1382,5.82,12.96

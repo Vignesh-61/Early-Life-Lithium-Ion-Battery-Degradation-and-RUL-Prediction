@@ -1,0 +1,10 @@
+Configuration,Window_W,Input_Features,LOBO_RMSE,LOBO_MAE,LOBO_R2
+Full Features (W=10),10,120,0.0996,0.08037,0.6512
+Full Features (W=20),20,240,0.10415,0.08861,0.1382
+Full Features (W=5),5,60,0.13176,0.10801,0.3483
+Full Features (W=3),3,36,0.09685,0.0834,0.6684
+"Single-Cycle (No Memory, W=1)",1,12,0.1077,0.08631,0.6464
+No Temperature Features (W=10),10,90,0.09055,0.07134,0.7269
+No Voltage Statistics (W=10),10,90,0.12362,0.10907,0.2496
+No Duration (W=10),10,110,0.13343,0.11059,0.444
+Operational Sensors Only / No Capacity History (W=10),10,110,0.16423,0.14527,0.1116

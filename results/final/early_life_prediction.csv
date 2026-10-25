@@ -1,0 +1,5 @@
+early_observation_cycles,future_eval_cycles,future_MAE,future_RMSE,future_R2,true_eol_cycle,predicted_eol_cycle,eol_cycle_error
+20,147,0.0435,0.05332,0.9075,124.0,132.0,8
+30,137,0.03944,0.04741,0.9155,124.0,132.0,8
+40,127,0.03905,0.04658,0.9015,124.0,132.0,8
+50,117,0.03931,0.04688,0.8722,124.0,132.0,8
